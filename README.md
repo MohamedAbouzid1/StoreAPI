@@ -220,10 +220,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## Contact
-
-Mohamed Abouzid - [Your Contact Information]
-
 ---
 
 **Note**: Make sure to keep your MongoDB connection string and other sensitive information secure by using environment variables and never committing them to version control.
